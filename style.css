@@ -72,6 +72,12 @@ margin-bottom:1.2%;
 /* END INDEX HTML STYLESHEET */
 /* END INDEX HTML STYLESHEET */
 
+
+/* ------------------------------------------------------------------------------------------------ */
+/* ------------------------------------------------------------------------------------------------ */
+/* ------------------------------------------------------------------------------------------------ */
+
+
 /* CONTACT HTML STYLESHEET */
 /* CONTACT HTML STYLESHEET */
 /* CONTACT HTML STYLESHEET */
@@ -79,7 +85,7 @@ margin-bottom:1.2%;
 
 
 #contact{
-background-color:rgb(255, 255, 255); 
+background-image: url("https://media3.giphy.com/media/3o85xuXNFKMBMYk9ag/giphy.gif?cid=3640f6095c97226b45522e6332117375"); 
 margin-top:75px;
 margin-bottom:260px;
 margin-left:5%;
@@ -109,3 +115,70 @@ padding-top:30px;
 /* END CONTACT HTML STYLESHEET */
 /* END CONTACT HTML STYLESHEET */
 /* END CONTACT HTML STYLESHEET */
+
+/* ------------------------------------------------------------------------------------------------ */
+/* ------------------------------------------------------------------------------------------------ */
+/* ------------------------------------------------------------------------------------------------ */
+
+
+/* PORTFOLIO HTML STYLESHEET */
+/* PORTFOLIO HTML STYLESHEET */
+/* PORTFOLIO HTML STYLESHEET */
+/* PORTFOLIO HTML STYLESHEET */   
+
+
+#section1{
+    background-color:#777;
+    clear:both;
+    align-content: center;
+    margin-top:75px;
+margin-bottom:260px;
+margin-left:5%;
+margin-right:5%;
+border-style: ridge;
+border-color:black;
+padding-top:75px;
+padding-bottom:75px;
+}
+
+#meme1{align-self: auto;
+    float:left;
+    border-style: outset;
+   border-color:black;
+   margin-bottom:5px;
+    width:17.5%;
+    padding:1.2%;
+    margin-left:25px;
+    color:white;
+}
+
+
+
+#meme2{float:right;
+    border-style: outset;
+   border-color:black;
+   margin-bottom:5px;
+   width:17.5%;
+   padding:1.2%;
+   margin-right:25px;
+   color:white;
+}
+
+#meme3{
+    border-style: outset;
+   border-color:black;
+   margin-bottom:5px;
+   width:17.5%;
+   padding:1.2%;
+   color:white;
+}
+
+#image2{
+    border-style:solid;
+    border-color:black;
+}
+
+/* END PORTFOLIO HTML STYLESHEET */
+/* END PORTFOLIO HTML STYLESHEET */
+/* END PORTFOLIO HTML STYLESHEET */
+/* END PORTFOLIO HTML STYLESHEET */
