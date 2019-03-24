@@ -1,0 +1,111 @@
+/* INDEX HTML STYLESHEET */
+/* INDEX HTML STYLESHEET */
+/* INDEX HTML STYLESHEET */
+/* INDEX HTML STYLESHEET */
+.navbar-brand{ 
+padding:20px 70px 20px 70px;
+font-family: 'Germania One', cursive;
+font-size:35pt;
+              
+
+}
+
+.ml-auto{
+margin-left: auto !important
+            
+}
+            
+#portfolio{
+margin:105px 75px 105px 75px;
+                
+}
+            
+body{
+background-image: url("https://cdn.artaic.com/wp-content/uploads/2015/04/artaic-grey-reclaimed-wood-timber-ash-tile-0310203.jpg");
+    
+}
+
+#nav1{
+background-color:#777;
+margin-top:1.2%;
+border-style: ridge;
+border-color:black;
+            
+}
+
+.display-4{
+border-left:200px;
+border-width:5px;  
+height: auto; 
+width: auto; 
+text-align:center;
+
+}
+
+.jumbotron{
+border-style:solid;
+clear:both;
+}
+
+#pic1{
+border-style: double;
+text-align:center;
+padding:2.5px;
+}
+
+
+#footer{
+background-color:#777;
+text-align: center;
+width:100%;
+left:0;
+padding:1.75%;
+position:absolute;
+border-style: ridge;
+border-color:black;
+margin-bottom:1.2%;
+}
+
+
+/* END INDEX HTML STYLESHEET */
+/* END INDEX HTML STYLESHEET */
+/* END INDEX HTML STYLESHEET */
+/* END INDEX HTML STYLESHEET */
+
+/* CONTACT HTML STYLESHEET */
+/* CONTACT HTML STYLESHEET */
+/* CONTACT HTML STYLESHEET */
+/* CONTACT HTML STYLESHEET */       
+
+
+#contact{
+background-color:rgb(255, 255, 255); 
+margin-top:75px;
+margin-bottom:260px;
+margin-left:5%;
+margin-right:5%;
+border-style: ridge;
+border-color:black;
+padding-top:75px;
+padding-bottom:75px;
+}
+#email1{
+text-decoration-color:#777;
+padding-bottom:30px;
+margin-left:20px;
+margin-right:20px;
+}
+#name1{
+text-decoration-color:#777;
+margin-left:20px;
+margin-right:20px;
+padding-top:30px;
+
+}
+
+
+
+/* END CONTACT HTML STYLESHEET */
+/* END CONTACT HTML STYLESHEET */
+/* END CONTACT HTML STYLESHEET */
+/* END CONTACT HTML STYLESHEET */
